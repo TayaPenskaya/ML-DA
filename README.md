@@ -1,3 +1,3 @@
 # ML-DA
 
-https://www.coursera.org/learn/mathematics-and-python/home/welcome
+https://www.coursera.org/specializations/machine-learning-data-analysis
